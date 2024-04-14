@@ -1,12 +1,11 @@
 # cli-number-guessing-game
 This is a number guessing game.
 
-
 <h1 align="center">Hi 👋, I'm SoniyaMuhammadDawood</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
 <p align="left"> <img align="right"
-  alt="coding" width="300"  src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg alt="soniyamuhammaddawood" /> </p>
+  alt="coding" width="300"  src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg" alt="soniyamuhammaddawood" /> </p>
 
 - 🔭 I’m currently working on **100 days of coding**
 
@@ -31,3 +30,8 @@ This is a number guessing game.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniyamuhammaddawood&show_icons=true&locale=en" alt="soniyamuhammaddawood" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniyamuhammaddawood&" alt="soniyamuhammaddawood" /></p>
+
+
+
+
+
