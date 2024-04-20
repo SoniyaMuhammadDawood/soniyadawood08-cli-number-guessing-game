@@ -2,7 +2,7 @@
 This is a number guessing game.
 
 <h1 align="center">Hi 👋, I'm SoniyaMuhammadDawood</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h3 align="center">A beginner developer from Pakistan</h3>
 
 <p align="left"> <img align="right"
   alt="coding" width="300"  src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg" alt="soniyamuhammaddawood" /> </p>
